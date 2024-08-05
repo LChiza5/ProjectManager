@@ -83,5 +83,6 @@ public class Project {
         System.out.println("tareas completadas: " + project.getCompletedTasks());
         System.out.println("Porcentaje finalizado: " + project.getCompletionPercentage() + "%");
     }
+
 }
 
